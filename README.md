@@ -1,7 +1,7 @@
 # Stock-Management-Web-Application_RAY-BAN-Company
  This project is a web application for stock management, considering the company RAY-BAN as a figure to work on. Using JEE, JSF, Spring Framework & Hibernate.
 # Platform 
-<img src="interface/Login.png">
+<img src="interface/login.png">
 <img src="interface/home.png">
 
 
